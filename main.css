@@ -11,4 +11,8 @@ h1 {
       margin-right: auto
   }
   
+  body {
+    background-image: linear-gradient(to top, #c1dfc4 0%, #deecdd 100%);
+  }
+  
   
