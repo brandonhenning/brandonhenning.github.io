@@ -1,7 +1,7 @@
 body {
     font-family: 'Open Sans', serif;
     padding-top: 54px;
-    color: #3d3e3f;
+    color: #686a6d;
   }
   
   @media (min-width: 992px) {
@@ -40,11 +40,11 @@ body {
   }
   
   .list-social-icons a {
-    color: #495057;
+    color: #0ba360;
   }
   
   .list-social-icons a:hover {
-    color: #BD5D38;
+    color: #0ba360;
   }
   
   .list-social-icons a .fa-lg {
@@ -56,7 +56,7 @@ body {
   }
   
   .list-icons .list-inline-item i:hover {
-    color: #BD5D38;
+    color: #0ba360;
   }
   
   #sideNav .navbar-nav .nav-item .nav-link {
