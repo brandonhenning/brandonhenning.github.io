@@ -132,11 +132,11 @@ body {
   
   .bg-primary {
     /* background-color: rgb(48, 170, 252) !important; */
-    background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+      background-image: linear-gradient(to top, #0ba360 0%, #3cba92 100%);
   }
   
   .text-primary {
-    color: rgb(65, 161, 26) !important;
+    color: #0ba360 !important;
   }
   
   a {
