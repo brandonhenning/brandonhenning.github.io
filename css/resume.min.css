@@ -131,7 +131,8 @@ body {
   }
   
   .bg-primary {
-    background-color: rgb(48, 170, 252) !important;
+    /* background-color: rgb(48, 170, 252) !important; */
+    background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
   }
   
   .text-primary {
